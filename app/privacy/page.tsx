@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             USAL Verify<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            838 Walker Road, Suite 21-2, Dover, Delaware 19904<br />
             Email: <a href="mailto:support@usalverify.com" style={{ color: '#1D4ED8' }}>support@usalverify.com</a>
           </p>
         </div>
