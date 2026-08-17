@@ -46,7 +46,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#BFDBFE' }}>support@usalverify.com</p>
-            <p className="mt-2" style={{ color: '#BFDBFE' }}>8 The Green, Ste A, Dover, DE 19901</p>
+            <p className="mt-2" style={{ color: '#BFDBFE' }}>838 Walker Road, Suite 21-2, Dover, Delaware 19904</p>
             <p className="mt-2" style={{ color: '#BFDBFE' }}></p>
           </div>
         </div>
