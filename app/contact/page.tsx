@@ -84,7 +84,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Mailing Address</h3>
-                  <p style={{ color: '#6B7280' }}>USAL Verify<br />8 The Green, Ste A<br />Dover, DE 19901</p>
+                  <p style={{ color: '#6B7280' }}>USAL Verify<br />838 Walker Road, Suite 21-2<br />Dover, Delaware 19904</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>SMS Support</h3>
